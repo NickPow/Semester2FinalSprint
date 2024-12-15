@@ -1,0 +1,263 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Absolute Superman #1",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/superman1.jpg",
+      "description": "The first issue of Absolute Superman.",
+      "quantity": 50
+    },
+    {
+      "id": "2",
+      "name": "Absolute Batman #1",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/batman1.jpg",
+      "description": "The first issue of Absolute Batman.",
+      "quantity": 30
+    },
+    {
+      "id": "3",
+      "name": "Absolute Batman #2",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/batman2.jpg",
+      "description": "The second issue of Absolute Batman.",
+      "quantity": 20
+    },
+    {
+      "id": "4",
+      "name": "Absolute Batman #1 Second Print",
+      "category": "comics",
+      "price": 15,
+      "image": "/batman12print.jpg",
+      "description": "The second print of Absolute Batman #1.",
+      "quantity": 10
+    },
+    {
+      "id": "5",
+      "name": "Blade #1",
+      "category": "comics",
+      "price": 6.99,
+      "image": "/blade.jpg",
+      "description": "Blade #1.",
+      "quantity": 40
+    },
+    {
+      "id": "6",
+      "name": "Dark Green Lantern #1",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/greenlan.jpg",
+      "description": "A pivotal Green Lantern issue.",
+      "quantity": 15
+    },
+    {
+      "id": "7",
+      "name": "Absolute Wonder Woman #1 B&W",
+      "category": "comics",
+      "price": 9.5,
+      "image": "/wonder.jpg",
+      "description": "A milestone Wonder Woman issue in black and white.",
+      "quantity": 25
+    },
+    {
+      "id": "8",
+      "name": "Justice Society of America #1",
+      "category": "comics",
+      "price": 7.99,
+      "image": "/jsa.jpg",
+      "description": "The first issue of Justice Society Of America.",
+      "quantity": 22
+    },
+    {
+      "id": "9",
+      "name": "Justice Society of America #1 foil",
+      "category": "comics",
+      "price": 10,
+      "image": "/jsafoil.jpg",
+      "description": "The first issue of Justice Society Of America.",
+      "quantity": 18
+    },
+    {
+      "id": "10",
+      "name": "DC Holiday Special #1",
+      "category": "comics",
+      "price": 14.99,
+      "image": "/holiday.jpg",
+      "description": "DC Holiday Special #1.",
+      "quantity": 5
+    },
+    {
+      "id": "11",
+      "name": "Ajani, caller of the pride",
+      "category": "cards",
+      "price": 4.99,
+      "image": "/ajani.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 100
+    },
+    {
+      "id": "12",
+      "name": "Ajani, mentor of heroes",
+      "category": "cards",
+      "price": 29.99,
+      "image": "/ajaini2.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 10
+    },
+    {
+      "id": "13",
+      "name": "Jace, Memory Adept",
+      "category": "cards",
+      "price": 999.99,
+      "image": "/jace.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 1
+    },
+    {
+      "id": "14",
+      "name": "Kaalia of the Vast",
+      "category": "cards",
+      "price": 199.99,
+      "image": "/kalia.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 3
+    },
+    {
+      "id": "15",
+      "name": "Thundering Falls",
+      "category": "cards",
+      "price": 15.99,
+      "image": "/land.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 20
+    },
+    {
+      "id": "16",
+      "name": "Liliana, Dreadhorde General",
+      "category": "cards",
+      "price": 2.5,
+      "image": "/lilian.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 50
+    },
+    {
+      "id": "17",
+      "name": "Slimefoot, the Stowaway",
+      "category": "cards",
+      "price": 99.99,
+      "image": "/muahroom.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 4
+    },
+    {
+      "id": "18",
+      "name": "Ral, Crackling Wit",
+      "category": "cards",
+      "price": 0.5,
+      "image": "/redblue.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 100
+    },
+    {
+      "id": "19",
+      "name": "Tamiyo, Seasoned Scholar",
+      "category": "cards",
+      "price": 24.99,
+      "image": "/Teacher.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 12
+    },
+    {
+      "id": "20",
+      "name": "Vivien Reid",
+      "category": "cards",
+      "price": 5.99,
+      "image": "/vivian.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 30
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "Absolute Batman #2",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/batman2.jpg",
+      "description": "The second issue of Absolute Batman.",
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "name": "Absolute Wonder Woman #1 B&W",
+      "category": "comics",
+      "price": 9.5,
+      "image": "/wonder.jpg",
+      "description": "A milestone Wonder Woman issue in black and white.",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "name": "Absolute Batman #1",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/batman1.jpg",
+      "description": "The first issue of Absolute Batman.",
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "name": "Dark Green Lantern #1",
+      "category": "comics",
+      "price": 5.99,
+      "image": "/greenlan.jpg",
+      "description": "A pivotal Green Lantern issue.",
+      "quantity": 1
+    },
+    {
+      "id": "14",
+      "name": "Kaalia of the Vast",
+      "category": "cards",
+      "price": 199.99,
+      "image": "/kalia.jpg",
+      "description": "Magic the gathering single card.",
+      "quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "password": "$2b$10$X8YsIAAYr7MxX1kc2OD8IeILJNnieSGHS8E7IduiEzvZw1uNJhESe"
+    },
+    {
+      "id": "4e8b",
+      "username": "test3",
+      "password": "$2a$10$d1NmyHnIwd3p2Gb4oM6Te.6wA7a/dR9KuqQV7TeR52HpV3XD7zgKe"
+    },
+    {
+      "id": "c6f4",
+      "username": "test4",
+      "password": "$2a$10$UBIm/7mZXY2qBvbS844dzuATplUQVsGJJzB1V4NCF5oeUdXzz6OMm",
+      "address": "123 st",
+      "city": "st johns",
+      "province": "newfoundland",
+      "postal": "a1s111"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "productId": 1,
+      "userId": 1,
+      "username": "testuser",
+      "rating": 5,
+      "comment": "Amazing comic!",
+      "date": "2024-12-31"
+    }
+  ]
+}
